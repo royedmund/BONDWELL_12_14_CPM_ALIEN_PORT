@@ -24,5 +24,3 @@ The reconstructed assembly source retains comments identifying code and data der
 * Added support for the Bondwell MC1408 DAC at I/O address range `50H–5FH`.
 * Produced a documented assembly source file.
 * Produced CP/M executable and Intel HEX versions of the program.
-
-This wording distinguishes the original Kaypro program from the reconstructed source and the Bondwell-specific modifications.
