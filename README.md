@@ -6,6 +6,8 @@ The new assembly-language source file was reconstructed from a disassembly of th
 
 The Bondwell version uses the computer’s character set to draw the invaders, player turret, barriers, projectiles and explosion effects. Sound effects have also been added using the Bondwell’s MC1408 digital-to-analogue converter.
 
+https://youtu.be/S6bz4kci5cQ
+
 ## Source Reference
 
 This port is derived from:
